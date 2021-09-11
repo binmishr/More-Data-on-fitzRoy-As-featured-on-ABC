@@ -22,3 +22,4 @@ fetch_ladder(season = 2020, comp = "AFLW")
 
 get_aflw_match_data()
 
+The dataset is attached with this repository.
