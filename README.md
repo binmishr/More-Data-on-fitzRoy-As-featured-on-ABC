@@ -13,7 +13,12 @@ AFL Womens data
 
 From 2019, we are able to provide access to AFL Women’s data. Read the full AFL Womens Vingette for details on how to access it.
 
+
 fetch_fixture(season = 2020, comp = "AFLW")
+
 fetch_results(season = 2020, comp = "AFLW")
+
 fetch_ladder(season = 2020, comp = "AFLW")
+
 get_aflw_match_data()
+
